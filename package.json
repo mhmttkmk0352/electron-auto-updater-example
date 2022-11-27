@@ -1,0 +1,20 @@
+{
+  "name": "electron-updater-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main/index.js",
+  "dependencies": {
+    "electron-updater": "^4.3.9"
+  },
+  "devDependencies": {
+    "electron": "^15.1.1",
+    "electron-builder": "^22.10.5",
+    "webpack": "^5.58.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Mehmet TOKMAK",
+  "license": "ISC"
+}
