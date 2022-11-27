@@ -1,0 +1,18 @@
+version: 1.0.4
+files:
+  - url: http://localhost/updater/files/auto-updater-setup1.0.4.exe
+    sha512: We7RfW6Pe6m4ACArQRrQhsEChPKPQpLjLYJYvkkHek0z0V53XkDrwgiciFywSTcGYSRaHiciL0zuaIKZlp3IqA==
+path: http://localhost/updater/files/auto-updater-setup1.0.4.exe
+sha512: We7RfW6Pe6m4ACArQRrQhsEChPKPQpLjLYJYvkkHek0z0V53XkDrwgiciFywSTcGYSRaHiciL0zuaIKZlp3IqA==
+packages:
+  ia32:
+    size: 64171895
+    sha512: rGa2QzBEc0ugiuACGZnzynKD1ua62hsYWVAAfXBUgQl9XNdzIq90JhgQbUBzi7/KSMTdstLeJ3t30urAnF+0sA==
+    blockMapSize: 68035
+    path: http://localhost/updater/files/auto-updater-1.0.4-ia32.nsis.7z
+    file: http://localhost/updater/files/auto-updater-1.0.4-ia32.nsis.7z
+isAdminRightsRequired: false
+releaseName: 'auto-update v1.0.4'
+releaseNotes: 'auto-update v1.0.4'
+releaseDate: '2022-11-26T10:07:26.606Z'
+
